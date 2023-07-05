@@ -1,5 +1,7 @@
 // Go program to print hello world
-// To run the program: go run <file-name>
+// To build the program: go build <file-name>
+// To execute the program: ./<binary-name>
+// To run the program directly: go run <file-name>
 
 package main
 
