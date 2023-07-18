@@ -12,6 +12,7 @@ func main() {
     // fmt.Print(str1, "\n", str2, "\n")
     fmt.Print(str1, " ", str2, "\n")
 
+    // Print inserts a space between arguments if neither are strings
     // fmt.Print(num1, num2)
     fmt.Print(num1, num2, "\n")
 }
